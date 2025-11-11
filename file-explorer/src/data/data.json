@@ -1,0 +1,152 @@
+{
+  "downloads": [
+    {
+      "id": "dwn_001",
+      "name": "Setup_VSCode_x64.exe",
+      "type": "Application/exe",
+      "size": "78.2 MB",
+      "dateModified": "2025-10-25"
+    },
+    {
+      "id": "dwn_002",
+      "name": "ProjectReport.pdf",
+      "type": "Document/pdf",
+      "size": "1.5 MB",
+      "dateModified": "2025-11-10"
+    },
+    {
+      "id": "dwn_003",
+      "name": "Ubuntu_24.04.iso",
+      "type": "Disk Image/iso",
+      "size": "4.6 GB",
+      "dateModified": "2025-09-01"
+    },
+    {
+      "id": "dwn_004",
+      "name": "API_Client_Setup.msi",
+      "type": "Application/msi",
+      "size": "12.3 MB",
+      "dateModified": "2025-11-11"
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc_001",
+      "name": "MeetingNotes.docx",
+      "type": "Document/word",
+      "size": "0.1 MB",
+      "dateModified": "2025-11-11"
+    },
+    {
+      "id": "doc_002",
+      "name": "Financial_Summary.xlsx",
+      "type": "Document/excel",
+      "size": "0.5 MB",
+      "dateModified": "2025-11-01"
+    },
+    {
+      "id": "doc_003",
+      "name": "React_Cheatsheet.pdf",
+      "type": "Document/pdf",
+      "size": "0.3 MB",
+      "dateModified": "2025-09-15"
+    },
+    {
+      "id": "doc_004",
+      "name": "Thesis_Final_Draft.docx",
+      "type": "Document/word",
+      "size": "2.1 MB",
+      "dateModified": "2025-10-28"
+    },
+    {
+      "id": "doc_005",
+      "name": "Budget_2026.xlsx",
+      "type": "Document/excel",
+      "size": "0.8 MB",
+      "dateModified": "2025-11-09"
+    }
+  ],
+  "pictures": [
+    {
+      "id": "pic_001",
+      "name": "Vacation_Beach.jpg",
+      "type": "Image/jpeg",
+      "size": "4.2 MB",
+      "dateModified": "2025-08-20"
+    },
+    {
+      "id": "pic_002",
+      "name": "Design_Mockup.png",
+      "type": "Image/png",
+      "size": "1.1 MB",
+      "dateModified": "2025-11-05"
+    },
+    {
+      "id": "pic_003",
+      "name": "Profile_Photo.jpg",
+      "type": "Image/jpeg",
+      "size": "0.8 MB",
+      "dateModified": "2025-10-01"
+    },
+    {
+      "id": "pic_004",
+      "name": "Mountain_View.heic",
+      "type": "Image/heic",
+      "size": "3.5 MB",
+      "dateModified": "2025-07-15"
+    },
+    {
+      "id": "pic_005",
+      "name": "Screensh_2025_11_11.png",
+      "type": "Image/png",
+      "size": "0.4 MB",
+      "dateModified": "2025-11-11"
+    }
+  ],
+  "music": [
+    {
+      "id": "mus_001",
+      "name": "Chill_Beats_Mix.mp3",
+      "type": "Audio/mp3",
+      "size": "5.5 MB",
+      "dateModified": "2025-07-10"
+    },
+    {
+      "id": "mus_002",
+      "name": "Concert_Recording.wav",
+      "type": "Audio/wav",
+      "size": "24.1 MB",
+      "dateModified": "2025-09-30"
+    },
+    {
+      "id": "mus_003",
+      "name": "Roadtrip_Anthems.aac",
+      "type": "Audio/aac",
+      "size": "4.8 MB",
+      "dateModified": "2025-10-15"
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid_001",
+      "name": "Tutorial_React.mp4",
+      "type": "Video/mp4",
+      "size": "150.2 MB",
+      "dateModified": "2025-11-01"
+    },
+    {
+      "id": "vid_002",
+      "name": "Family_Reunion.mov",
+      "type": "Video/mov",
+      "size": "560.9 MB",
+      "dateModified": "2025-08-05"
+    },
+    {
+      "id": "vid_003",
+      "name": "Short_Film_Edit.mkv",
+      "type": "Video/mkv",
+      "size": "1.2 GB",
+      "dateModified": "2025-11-10"
+    }
+  ]
+}
